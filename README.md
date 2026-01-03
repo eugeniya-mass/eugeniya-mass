@@ -1,4 +1,4 @@
-# 👋 Привет, я Евгения Мас / Hi, I'm Eugene Mas
+# 👋 Привет, я Евгения Мас / Hi, I'm Eugeniyа Mass
 
 ### 👩‍💻 Frontend Engineer | Angular, TypeScript, NgRx
 
