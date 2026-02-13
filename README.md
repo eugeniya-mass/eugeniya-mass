@@ -44,6 +44,8 @@ I consistently seek opportunities for **intellectual and professional growth** a
 | **Museum** | Angular, TS, SCSS | Веб-приложение для галереи/музея. Фокус на производительности и чистой архитектуре. / Gallery/museum web application focused on loading performance and clean architecture. [**Link**](https://github.com/jijek-com/museum) |
 | **Coffee House** | JS, HTML/CSS | Полноценный адаптивный сайт-витрина. Акцент на верстке по BEM и высокой степени интерактивности. / Fully responsive storefront website. Emphasis on BEM-based markup and high interactivity. [**Link**](https://github.com/jijek-com/coffee-house) |
 
+| **Best Discount** | JS, HTML/CSS | Лендинг для личного кабинета компании Best Discount. С использованием Бэм, scss, javascript. [**Link**](https://bd-my-page.vercel.app/) |
+
 ---
 
 ## 💼 Коммерческий Опыт (Краткие Достижения) / Commercial Experience (Key Achievements)
