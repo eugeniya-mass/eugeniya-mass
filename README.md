@@ -40,6 +40,7 @@ I consistently seek opportunities for **intellectual and professional growth** a
 
 | Проект / Project | Технологии / Technologies | Описание / Description |
 | :--- | :--- | :--- |
+| **JOJO Pizza** | NextJs, Tailwild, Vibe coding | Просто доставка еды. / Just a food delivery app. [**Link**](https://clone-dodo-nextjs.vercel.app/ru) |
 | **Virtual Music Kit** | Angular, RxJS, SCSS | Интерактивный веб-инструмент для создания музыки. Демонстрация работы с асинхронными событиями. / An interactive web tool for music creation, demonstrating asynchronous event handling. [**Link**](https://github.com/jijek-com/virtual-music-kit) |
 | **Museum** | Angular, TS, SCSS | Веб-приложение для галереи/музея. Фокус на производительности и чистой архитектуре. / Gallery/museum web application focused on loading performance and clean architecture. [**Link**](https://github.com/jijek-com/museum) |
 | **Coffee House** | JS, HTML/CSS | Полноценный адаптивный сайт-витрина. Акцент на верстке по BEM и высокой степени интерактивности. / Fully responsive storefront website. Emphasis on BEM-based markup and high interactivity. [**Link**](https://github.com/jijek-com/coffee-house) |
