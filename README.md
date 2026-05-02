@@ -1,6 +1,6 @@
 # 👋 Привет, я Евгения Мас / Hi, I'm Eugeniyа Mass
 
-### 👩‍💻 Frontend Engineer | Angular, TypeScript, NgRx
+### Creative Engineer | Frontend Engineer | Angular, NextJs, TypeScript, NgRx
 
 ---
 
